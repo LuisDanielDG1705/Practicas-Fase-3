@@ -12,3 +12,9 @@ Documentación de actividades de GitHub y colaboración profesional.
 
 Luis Daniel Diasgiron Galindo  
 Desarrollo Moderno y Workflow Profesional
+
+## Tecnologías usadas
+
+- Git
+- Ubuntu (WSL)
+- Visual Studio Code
